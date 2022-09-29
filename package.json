@@ -1,0 +1,15 @@
+{
+  "name": "gest_mail_function",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "axios": "^0.27.2",
+    "firebase-admin": "^11.0.1",
+    "google-auth-library": "^8.5.1"
+  }
+}
